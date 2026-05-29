@@ -1,6 +1,6 @@
 # nvim + tmux cheatsheet
 
-> Leader key is `<Space>`. Tmux prefix is `Option+s` (the `ß` key).
+> Leader key is `<Space>`. Tmux prefix is `Option+s` on Mac and `Alt+s` on Linux.
 
 ---
 
