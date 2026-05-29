@@ -6,7 +6,7 @@ return {
     dependencies = { 'folke/snacks.nvim' },
     opts = {
       terminal = {
-        provider = "none",
+        split_width_percentage = 0.30,
       },
     },
     keys = {
