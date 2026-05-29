@@ -11,7 +11,7 @@ link() {
     echo "Backing up existing $dst → $dst.bak"
     mv "$dst" "$dst.bak"
   fi
-  ln -sf "$src" "$dst"
+  ln -sfn "$src" "$dst"
   echo "Linked $dst → $src"
 }
 
